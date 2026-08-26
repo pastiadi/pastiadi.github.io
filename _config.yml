@@ -1,5 +1,3 @@
-remote_theme: klaudiosinani/re
-plugins:
-  - jekyll-github-metadata
-  - jekyll-remote-theme
-  - jekyll-sitemap
+title: Pastiadi's Page
+description: My personal website
+theme: jekyll-theme-cayman
