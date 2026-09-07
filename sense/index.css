@@ -18,6 +18,7 @@ body
 }
 #wb_Image5
 {
+   height: 100%;
    margin: 0;
    vertical-align: top;
 }
@@ -28,9 +29,10 @@ body
    box-sizing: border-box;
    padding: 0;
    display: inline-block;
-   width: 287px;
-   height: 130px;
+   width: 100%;
+   height: 100%;
    vertical-align: top;
+   object-fit: scale-down;
 }
 #wb_Image1
 {
@@ -1015,7 +1017,7 @@ body
 {
    display: inline-block;
    width: 475px;
-   height: 993px;
+   height: 1037px;
    z-index: 2;
 }
 #wb_Image2
@@ -1110,8 +1112,8 @@ body
 }
 #wb_Image5
 {
-   width: 364px;
-   height: 164px;
+   width: 361px;
+   height: 148px;
    visibility: visible;
    display: inline-block;
    margin: 0;
@@ -1119,8 +1121,8 @@ body
 }
 #Image5
 {
-   width: 364px;
-   height: 164px;
+   width: 361px;
+   height: 148px;
 }
 #wb_Image1
 {
@@ -1168,10 +1170,10 @@ body
    border-radius: 0px;
    padding: 0;
    flex-direction: row;
-   flex-wrap: nowrap;
-   justify-content: space-around;
+   flex-wrap: wrap;
+   justify-content: center;
    align-items: center;
-   align-content: flex-start;
+   align-content: center;
 }
 #FlexGrid1 .item-1
 {
@@ -1182,10 +1184,10 @@ body
    border-radius: 0px;
    padding: 0;
    flex-direction: row;
-   flex-wrap: nowrap;
+   flex-wrap: wrap;
    justify-content: space-around;
    align-items: center;
-   align-content: flex-start;
+   align-content: center;
 }
 #wb_LayoutGrid2
 {
@@ -1696,8 +1698,8 @@ body
 }
 #wb_Image2
 {
-   width: 365px;
-   height: 74px;
+   width: 389px;
+   height: 78px;
    visibility: visible;
    display: inline-block;
    margin: 0;
@@ -1705,8 +1707,8 @@ body
 }
 #Image2
 {
-   width: 365px;
-   height: 74px;
+   width: 389px;
+   height: 78px;
 }
 #wb_Text1
 {
