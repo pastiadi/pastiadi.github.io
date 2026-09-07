@@ -1193,6 +1193,9 @@ body
 {
    visibility: visible;
    display: table;
+   background-color: transparent;
+   background-image: none;
+   background-image: none;
 }
 #wb_LayoutGrid2
 {
