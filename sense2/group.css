@@ -1436,8 +1436,8 @@ body
    padding: 0;
    flex-direction: row;
    flex-wrap: nowrap;
-   justify-content: flex-start;
-   align-items: flex-start;
+   justify-content: space-around;
+   align-items: center;
    align-content: flex-start;
 }
 #FlexGrid2 .item-3
@@ -1492,7 +1492,7 @@ body
    padding: 0;
    flex-direction: row;
    flex-wrap: nowrap;
-   justify-content: center;
+   justify-content: flex-start;
    align-items: flex-start;
    align-content: flex-start;
 }
