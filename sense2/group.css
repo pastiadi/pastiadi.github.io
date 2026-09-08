@@ -955,7 +955,7 @@ body
    width: 143px;
    z-index: 12;
 }
-@media only screen and (max-width: 969px)
+@media only screen and (max-width: 799px)
 {
 body
 {
@@ -1436,8 +1436,8 @@ body
    padding: 0;
    flex-direction: row;
    flex-wrap: nowrap;
-   justify-content: space-around;
-   align-items: center;
+   justify-content: flex-start;
+   align-items: flex-start;
    align-content: flex-start;
 }
 #FlexGrid2 .item-3
@@ -1492,8 +1492,8 @@ body
    padding: 0;
    flex-direction: row;
    flex-wrap: nowrap;
-   justify-content: space-around;
-   align-items: center;
+   justify-content: center;
+   align-items: flex-start;
    align-content: flex-start;
 }
 #FlexGrid2 .item-7
@@ -1695,5 +1695,56 @@ body
 #Button6
 {
    line-height: 23px;
+}
+#wb_Image9
+{
+   width: 145px;
+   height: 145px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   flex-grow: 0;
+   flex-shrink: 0;
+   align-self: auto;
+   padding: 15px 0 10px 15px;
+}
+#Image9
+{
+   width: 145px;
+   height: 145px;
+}
+#wb_Image8
+{
+   width: 143px;
+   height: 143px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   flex-grow: 0;
+   flex-shrink: 0;
+   align-self: auto;
+   padding: 15px 0 10px 15px;
+}
+#Image8
+{
+   width: 143px;
+   height: 143px;
+}
+#wb_Image10
+{
+   width: 143px;
+   height: 143px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   flex-grow: 0;
+   flex-shrink: 0;
+   align-self: auto;
+   padding: 15px 0 10px 15px;
+}
+#Image10
+{
+   width: 143px;
+   height: 143px;
 }
 }

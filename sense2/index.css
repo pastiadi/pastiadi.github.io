@@ -1,6 +1,6 @@
 div#container
 {
-   width: 1140px;
+   width: 1006px;
    position: relative;
    margin: 0 auto 0 auto;
    text-align: left;
@@ -69,7 +69,7 @@ body
    display: grid;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
    width: 100%;
    font-size: 0;
    grid-template-columns: 1fr 1fr;
@@ -131,7 +131,7 @@ body
    padding: 50px 0 0 0;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
 }
 #LayoutGrid2 > .col-1, #LayoutGrid2 > .col-2
 {
@@ -210,7 +210,7 @@ body
    padding: 60px 0 60px 0;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
 }
 #LayoutGrid1 > .col-1
 {
@@ -273,7 +273,7 @@ body
    padding: 50px 0 0 0;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
 }
 #LayoutGrid4 > .col-1, #LayoutGrid4 > .col-2
 {
@@ -352,7 +352,7 @@ body
    padding: 0;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
 }
 #LayoutGrid3 > .col-1, #LayoutGrid3 > .col-2
 {
@@ -485,7 +485,7 @@ body
    padding: 50px 0 0 0;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
 }
 #LayoutGrid11 > .col-1, #LayoutGrid11 > .col-2
 {
@@ -749,7 +749,7 @@ body
    display: grid;
    margin-right: auto;
    margin-left: auto;
-   max-width: 1140px;
+   max-width: 1000px;
    width: 100%;
    font-size: 0;
    grid-template-columns: 1fr 1fr;
@@ -1031,7 +1031,7 @@ body
    text-align: center;
    z-index: 5;
 }
-@media only screen and (max-width: 1139px)
+@media only screen and (max-width: 1005px)
 {
 div#container
 {
