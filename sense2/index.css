@@ -692,8 +692,8 @@ body
    box-sizing: border-box;
    padding: 0;
    display: inline-block;
-   width: 308px;
-   height: 288px;
+   width: 332px;
+   height: 310px;
    vertical-align: top;
 }
 #wb_Image12
@@ -859,7 +859,7 @@ body
    box-sizing: border-box;
    border-radius: 3px 3px 0 0 !important;
    margin: 0;
-   padding: 12px 20px 0 20px;
+   padding: 20px 20px 0 20px;
    color: #212529;
    font-family: "Open Sans";
    font-weight: bold;
@@ -876,13 +876,13 @@ body
    font-weight: normal;
    font-style: normal;
    font-size: 19px;
-   line-height: 34.2px;
+   line-height: 32.3px;
 }
 #Card4-card-item2
 {
    box-sizing: border-box;
    border-radius: 0 0 3px 3px !important;
-   margin: 20px 20px 0 20px;
+   margin: 10px 20px 0 20px;
    padding: 0;
    color: #212529;
    font-family: "Open Sans";
@@ -1019,8 +1019,8 @@ body
 #wb_Image10
 {
    display: inline-block;
-   width: 308px;
-   height: 288px;
+   width: 332px;
+   height: 310px;
    z-index: 8;
 }
 #wb_Image11
