@@ -304,6 +304,12 @@ body
    justify-content: center;
    text-align: center;
 }
+#LayoutGrid4 > .col-1 > .col-1-padding
+{
+   box-sizing: border-box;
+   width: 100%;
+   padding: 0 0 20px 0;
+}
 #LayoutGrid4 > .col-2
 {
    background-color: transparent;
@@ -1245,6 +1251,11 @@ body
    align-items: flex-start;
    justify-content: center;
    text-align: center;
+}
+#LayoutGrid4 > .col-1 > .col-1-padding
+{
+   width: 100%;
+   padding: 0;
 }
 #LayoutGrid4 > .col-2
 {
