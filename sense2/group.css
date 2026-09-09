@@ -1019,7 +1019,7 @@ body
    border-radius: 0px;
    padding: 0;
    flex-direction: column;
-   flex-wrap: nowrap;
+   flex-wrap: wrap;
    justify-content: flex-start;
    align-items: flex-start;
    align-content: flex-start;
@@ -1436,8 +1436,8 @@ body
    padding: 0;
    flex-direction: row;
    flex-wrap: nowrap;
-   justify-content: space-around;
-   align-items: center;
+   justify-content: flex-start;
+   align-items: flex-start;
    align-content: flex-start;
 }
 #FlexGrid2 .item-3

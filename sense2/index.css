@@ -859,7 +859,7 @@ body
    box-sizing: border-box;
    border-radius: 3px 3px 0 0 !important;
    margin: 0;
-   padding: 12px 20px 12px 20px;
+   padding: 12px 20px 0 20px;
    color: #212529;
    font-family: "Open Sans";
    font-weight: bold;
@@ -876,7 +876,7 @@ body
    font-weight: normal;
    font-style: normal;
    font-size: 19px;
-   line-height: 38px;
+   line-height: 34.2px;
 }
 #Card4-card-item2
 {
@@ -1400,10 +1400,6 @@ body
    visibility: visible;
    display: flex;
    margin: 0;
-   color: #FFFFFF;
-   background-color: #FFFFFF;
-   background-image: none;
-   border: 0px solid #DEDEDE;
 }
 #Card3-card-item0
 {
@@ -1640,6 +1636,8 @@ body
    visibility: visible;
    display: flex;
    margin: 0;
+   background-color: #FFFFFF;
+   background-image: none;
 }
 #Card5-card-item0
 {
