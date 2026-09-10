@@ -270,7 +270,7 @@ body
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   padding: 50px 0 0 0;
+   padding: 20px 0 0 0;
    margin-right: auto;
    margin-left: auto;
    max-width: 1000px;
@@ -459,7 +459,7 @@ body
 {
    box-sizing: border-box;
    border-radius: 0 0 3px 3px !important;
-   margin: 20px 20px 0 20px;
+   margin: 0 20px 0 20px;
    padding: 0;
    color: #212529;
    font-family: "Open Sans";
